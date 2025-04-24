@@ -10,8 +10,7 @@ jobs:
     # Do not deploy in the main repository, only in user projects
     if: github.repository_owner != 'fastapi'
     runs-on:
-      - self-hosted
-      - staging
+      - ubuntu-latest
     env:
       ENVIRONMENT: staging
       DOMAIN: ${{ secrets.DOMAIN_STAGING }}
