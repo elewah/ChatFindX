@@ -2,6 +2,8 @@
 
 ## Latest Changes
 
+* ⬆ Bump astral-sh/setup-uv from 5 to 6. PR [#1](https://github.com/elewah/ChatFindX/pull/1) by [@dependabot[bot]](https://github.com/apps/dependabot).
+
 ### Fixes
 
 * 🐛 Close sidebar drawer on user selection. PR [#1515](https://github.com/fastapi/full-stack-fastapi-template/pull/1515) by [@dtellz](https://github.com/dtellz).
